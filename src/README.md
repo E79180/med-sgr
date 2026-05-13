@@ -2,4 +2,4 @@
 
 ## 其他学科链接直达
 
-- [其他学科](https://final-rush.uuyu.tech)
+- [其他学科](https://med.uuyu.tech)
